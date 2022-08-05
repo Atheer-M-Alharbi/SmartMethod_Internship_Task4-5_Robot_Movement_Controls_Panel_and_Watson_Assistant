@@ -14,8 +14,10 @@
 
 ### Screenshot of the interface:
 
+- Robot Movement Control Panel
+ 
+ ![](/dist/SC_RobotMovementControlsPanel.png)
 
-![](/dist/SC - Robot Movement Controls Panel.png)
-
-
-![](/dist/SC - Display Robot Movement.png)
+- Display selected movement
+ 
+ ![](/dist/SC_DisplayRobotMovement.png)
