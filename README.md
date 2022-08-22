@@ -1,6 +1,6 @@
 # Smart Methods Internship Task 4 and 5
 
-### Main points: 
+### Main point: 
 - The project idea is to build a control panel through a website that connects to the robot's motors to allow remote controls of the robot's movement and to keep a record of the movements in a database. In addition to creating a chatbot for inquiries about the website.
 
 ### Implemented using:
